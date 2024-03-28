@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+span{
+    display: block;
+}
+#container{
+    text-align: center;
+    margin: 100px auto 100px;
+    width: 80%;
+}
+.btn{
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+}
+#red{
+    background:red;
+}
+#pink{
+    background: pink;
+}
+#green{
+    background: green;
+}
+#blue {
+    background: blue;
+}
+#yellow {
+    background: yellow;
+}
